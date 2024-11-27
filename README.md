@@ -56,7 +56,7 @@ python simple_game.py
 - The difficulty increases as the player survives longer, with blocks falling faster and more frequently.
 
 ## Screenshots
-![Game Screenshot](assets/screenshots/screenshot1.png)  
+![Game Screenshot](assets/screenshot1.png)  
 *Example screenshot of gameplay*
 
 ## Contributing
