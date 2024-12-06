@@ -223,10 +223,10 @@ class Game:
             # Introduce new block types or effects after reaching certain scores
             if self.score > 500 and self.score <= 1000:
                 # Add new block types for the next stage
-                pass  # Implement new block types and patterns here
+                pass
             elif self.score > 1000:
                 # Even more difficult blocks or power-ups
-                pass  # Implement the next level's blocks
+                pass
 
 if __name__ == "__main__":
     root = tk.Tk()
